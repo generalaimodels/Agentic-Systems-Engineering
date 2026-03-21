@@ -14,8 +14,8 @@
 
 <p>
   <a href="https://generalaimodels.github.io/Agentic-Systems-Engineering/"><strong>Read Online</strong></a> ·
-  <a href="./chapter1-theagentic-paradigm/"><strong>Start With Chapter 1</strong></a> ·
-  <a href="./future/"><strong>See Future Roadmap</strong></a>
+  <a href="https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter1-theagentic-paradigm/"><strong>Start With Chapter 1</strong></a> ·
+  <a href="https://generalaimodels.github.io/Agentic-Systems-Engineering/future/"><strong>See Future Roadmap</strong></a>
 </p>
 
 </div>
@@ -101,39 +101,39 @@ flowchart LR
 
 ### If You’re Building Your First Serious Agent Platform
 
-1. [Chapter 1: The Agentic Paradigm](./chapter1-theagentic-paradigm/)
-2. [Chapter 4: Protocol Architecture](./chapter4-protocol/)
-3. [Chapter 6: Context Engineering](./chapter6-context/)
-4. [Chapter 8: Retrieval Architecture](./chapter8-retrieval-architecture/)
-5. [Chapter 13: Tool Architecture](./chapter13-tool-architecture/)
-6. [Chapter 15: Agent Loop](./chapter15-agent-loop/)
+1. [Chapter 1: The Agentic Paradigm](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter1-theagentic-paradigm/)
+2. [Chapter 4: Protocol Architecture](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter4-protocol/)
+3. [Chapter 6: Context Engineering](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter6-context/)
+4. [Chapter 8: Retrieval Architecture](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter8-retrieval-architecture/)
+5. [Chapter 13: Tool Architecture](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter13-tool-architecture/)
+6. [Chapter 15: Agent Loop](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter15-agent-loop/)
 
 ### If You Care Most About Production Safety and Reliability
 
-1. [Chapter 19: Making the Environment Legible](./chapter19-making-env-legible/)
-2. [Chapter 20: Hallucination](./chapter20-hallucination/)
-3. [Chapter 21: Fault Tolerance](./chapter21-fault-tolerance/)
+1. [Chapter 19: Making the Environment Legible](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter19-making-env-legible/)
+2. [Chapter 20: Hallucination](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter20-hallucination/)
+3. [Chapter 21: Fault Tolerance](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter21-fault-tolerance/)
 
 ### If You Care Most About Platform and Systems Design
 
-1. [Chapter 5: SDK Architecture](./chapter5-sdk/)
-2. [Chapter 10: Embedding](./chapter10-embedding/)
-3. [Chapter 16: Multi-Agent Orchestration](./chapter16-multi-agent-orchestration/)
-4. [Chapter 18: Session Architecture](./chapter18-session-architecture/)
+1. [Chapter 5: SDK Architecture](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter5-sdk/)
+2. [Chapter 10: Embedding](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter10-embedding/)
+3. [Chapter 16: Multi-Agent Orchestration](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter16-multi-agent-orchestration/)
+4. [Chapter 18: Session Architecture](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter18-session-architecture/)
 
 ## Chapter Entry Points
 
-- [Homepage](./)
-- [Chapter 1: The Agentic Paradigm](./chapter1-theagentic-paradigm/)
-- [Chapter 2: LLM as Cognitive Substrate](./chapter2-llm-as-cognitive/)
-- [Chapter 3: Formal Agent Architectures](./chapter3-formal-agent/)
-- [Chapter 4: Protocol Architecture](./chapter4-protocol/)
-- [Chapter 5: SDK Architecture](./chapter5-sdk/)
-- [Chapter 6: Context Engineering](./chapter6-context/)
-- [Chapter 7: Query Understanding](./chapter7-query/)
-- [Chapter 8: Retrieval Architecture](./chapter8-retrieval-architecture/)
-- [Chapter 9: Chunking](./chapter9-chucking/)
-- [Future Roadmap](./future/)
+- [Homepage](https://generalaimodels.github.io/Agentic-Systems-Engineering/)
+- [Chapter 1: The Agentic Paradigm](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter1-theagentic-paradigm/)
+- [Chapter 2: LLM as Cognitive Substrate](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter2-llm-as-cognitive/)
+- [Chapter 3: Formal Agent Architectures](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter3-formal-agent/)
+- [Chapter 4: Protocol Architecture](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter4-protocol/)
+- [Chapter 5: SDK Architecture](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter5-sdk/)
+- [Chapter 6: Context Engineering](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter6-context/)
+- [Chapter 7: Query Understanding](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter7-query/)
+- [Chapter 8: Retrieval Architecture](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter8-retrieval-architecture/)
+- [Chapter 9: Chunking](https://generalaimodels.github.io/Agentic-Systems-Engineering/chapter9-chucking/)
+- [Future Roadmap](https://generalaimodels.github.io/Agentic-Systems-Engineering/future/)
 
 ## Who This Is For
 
