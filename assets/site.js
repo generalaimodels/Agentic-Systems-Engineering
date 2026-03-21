@@ -21,6 +21,40 @@ async function initializeMermaid() {
   }
 }
 
+function initializeReaderFocusMode() {
+  const toggle = document.querySelector("[data-reader-focus-toggle]");
+
+  if (!toggle) {
+    return;
+  }
+
+  const storageKey = "agentic-notes-reader-focus";
+  const root = document.body;
+
+  const applyState = (isFocused) => {
+    root.classList.toggle("reader-focus-mode", isFocused);
+    toggle.setAttribute("aria-pressed", String(isFocused));
+    toggle.querySelector("[data-reader-focus-label]")?.replaceChildren(isFocused ? "Show outline" : "Focus read");
+  };
+
+  try {
+    applyState(window.localStorage.getItem(storageKey) === "true");
+  } catch {
+    applyState(false);
+  }
+
+  toggle.addEventListener("click", () => {
+    const nextState = !root.classList.contains("reader-focus-mode");
+    applyState(nextState);
+
+    try {
+      window.localStorage.setItem(storageKey, String(nextState));
+    } catch {
+      // Ignore storage failures and keep the current session interactive.
+    }
+  });
+}
+
 function initializeTocHighlighting() {
   const tocLinks = [...document.querySelectorAll(".toc-link[href^='#']")];
   const headings = tocLinks
@@ -60,4 +94,5 @@ function initializeTocHighlighting() {
 }
 
 void initializeMermaid();
+initializeReaderFocusMode();
 initializeTocHighlighting();
